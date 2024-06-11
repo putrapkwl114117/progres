@@ -1,4 +1,6 @@
 python1 api
 -api
 -ai
--srvers
+-srvers cms
+
+-mulai minggu depan
