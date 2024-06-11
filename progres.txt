@@ -1,2 +1,4 @@
 -progres baru untuk konsisten belajar backend
 -belajar cms(system control system)
+-belajar membuat website backedn
+-embuat cms expert
