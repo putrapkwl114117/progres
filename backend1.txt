@@ -7,8 +7,9 @@ python1 api
 -semangat aja dulu
 -kumpulin niat
 
+=======
 intinya kelar:
 -belajar data tractur
 -belajar djengo
 -reach
--mager
+
