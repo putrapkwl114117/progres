@@ -4,3 +4,5 @@ python1 api
 -srvers cms
 
 -mulai minggu depan
+-semangat aja dulu
+-kumpulin niat
